@@ -1,11 +1,11 @@
 'use-strict';
 //add your code here
 function h1Selector(selector){
-return document.querySelectorAll('h1')
+$('h1')
 }
 
 function liInOlSelector(selector) {
-return document.QuerySelector('ol li')
+$('ol li')
 }
 
 function linkSelector(selector) {
