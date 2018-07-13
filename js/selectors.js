@@ -13,7 +13,7 @@ return $('.box5 #box4 a')
 }
 
 function imageSelector(selector) {
-  return document.SelectorAll('image.cat-sleeping')
+  $('image.cat-sleeping')
 }
 
 function checkboxInputSelector(selector){
