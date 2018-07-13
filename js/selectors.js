@@ -9,7 +9,7 @@ $('ol li')
 }
 
 function linkSelector(selector) {
-$('.box5#box4 a') 
+$('.box5 #box4 a') 
 }
 
 function imageSelector(selector) {
