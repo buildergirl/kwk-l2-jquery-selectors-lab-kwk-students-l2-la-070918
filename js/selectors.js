@@ -13,7 +13,7 @@ return $('.box5#box4 a')
 }
 
 function imageSelector(selector) {
- return $("alt:[cat sleeping]");
+ return $("alt = [cat sleeping]");
 }
 
 function checkboxInputSelector(selector){
