@@ -13,7 +13,7 @@ return $('.box5#box4 a')
 }
 
 function imageSelector(selector) {
-return $('img [catsleeping]')
+return $(:[catsleeping]')
 }
 
 function checkboxInputSelector(selector){
