@@ -15,3 +15,7 @@ function linkSelector(selector) {
 function imageSelector(selector) {
   return document.SelectorAll('image.cat-sleeping')
 }
+
+function checkboxInputSelector(selector){
+  return document.Selectro
+}
