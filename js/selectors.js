@@ -13,9 +13,9 @@ return $('.box5 #box4 a')
 }
 
 function imageSelector(selector) {
-  $('image.cat-sleeping')
+  return $('image.cat-sleeping')
 }
 
 function checkboxInputSelector(selector){
-  return document.Selectro
+   return
 }
