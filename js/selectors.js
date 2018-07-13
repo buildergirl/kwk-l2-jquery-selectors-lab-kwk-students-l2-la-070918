@@ -9,7 +9,7 @@ $('ol li')
 }
 
 function linkSelector(selector) {
-  return document.linkSelector
+$('') 
 }
 
 function imageSelector(selector) {
