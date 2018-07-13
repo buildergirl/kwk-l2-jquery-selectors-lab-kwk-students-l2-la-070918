@@ -9,7 +9,7 @@ return $('ol li')
 }
 
 function linkSelector(selector) {
-return $('.box5 #box4 a') 
+return $('.box5#box4 a') 
 }
 
 function imageSelector(selector) {
