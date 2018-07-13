@@ -1,15 +1,15 @@
 'use-strict';
 //add your code here
 function h1Selector(selector){
-$('h1')
+return $('h1')
 }
 
 function liInOlSelector(selector) {
-$('ol li')
+return $('ol li')
 }
 
 function linkSelector(selector) {
-$('.box5 #box4 a') 
+return $('.box5 #box4 a') 
 }
 
 function imageSelector(selector) {
